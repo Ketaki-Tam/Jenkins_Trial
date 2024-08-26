@@ -1,3 +1,3 @@
-!# /usr/lib/python3
+#! /usr/lib/python3
 
 print("Hello World!")
